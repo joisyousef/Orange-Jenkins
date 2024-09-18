@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d1068d8b7db8890b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b83e59af4119e8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329330c37dd20d0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cc8c8c40180bc2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d18520c2659578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c36bb6e1fe7ee024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b3ed307d6f2896b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "646027801d02dcdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "366e4d472dff5129",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e09981cb35e1388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e49f2b2a64f8bee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "46c8809e047b4089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73d220ff5c9fc233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75a7a90204ad3335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91e1e34a683bda0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "qqq/Lab One Jenkins.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-to-notion:Share to notion": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "c36bb6e1fe7ee024",
+  "lastOpenFiles": [
+    "LabOne/Lab One Jenkins.md",
+    "LabOne/attachment/a5b298c045e80cf9a94d9becf4143bd7.png",
+    "LabOne/attachment/2b38942c2c78f40a9e97bdf026a9af33.png",
+    "LabOne/attachment/99f7a34ed752a606adae5a866554ff1a.png",
+    "LabOne/attachment/19e3bd74a0c6c4be23996499cd3ef0ca.png",
+    "LabOne/attachment/e8325cfaef3248b349ee60303b8414f2.png",
+    "LabOne/attachment/308f8b1c584c3b78c3cde881fe636959.png",
+    "LabOne/attachment/d00560385b7904283d2c8cfc7ad077f4.png",
+    "LabOne/attachment/03cf831151c5635d94c39491d4a18020.png",
+    "LabOne/attachment/873207023105b7580109b54830c5fe75.png",
+    "LabOne/attachment/f1b0318e9d25e46c605319a56a272a6e.png",
+    "LabOne/attachment",
+    "LabOne",
+    "qqq/attachment",
+    "qqq",
+    "qqq/Lab One Jenkins.md",
+    "LabOne/kubernetes lab one.md",
+    "LabSeven/kubernetes lab seven.md",
+    "LabSix/kubernetes lab six.md",
+    "LabSeven",
+    "LabThree/kubernetes lab three.md",
+    "output/host-path-pod.yml",
+    "output/empty-dir-pod.yml",
+    "output/configmap.yml",
+    "LabSix/pod-with-subpath.yml",
+    "LabSix/pv-resize-task.yaml",
+    "LabFive/kubernetes lab five.md",
+    "LabFour/kubernetes lab four.md",
+    "LabTwo/kubernetes lab two.md",
+    "LabOne/README.md"
+  ]
+}
