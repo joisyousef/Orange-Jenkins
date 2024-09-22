@@ -266,7 +266,7 @@ installed!
 Once this is done, build this job through user jenkins.
 Note: You should use jenkins's credentials from the previous question.
 
-    Username: jenkins
+	    Username: jenkins
     Password: jenk!n$
 
 ![](e8325cfaef3248b349ee60303b8414f2.png)
