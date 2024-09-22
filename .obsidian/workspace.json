@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabOne/Lab One Jenkins.md",
+                "file": "LabTwo/Lab Two Jenkins.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LabOne/Lab One Jenkins.md",
+                "file": "LabTwo/Lab Two Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LabOne/Lab One Jenkins.md",
+                "file": "LabTwo/Lab Two Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LabOne/Lab One Jenkins.md"
+                "file": "LabTwo/Lab Two Jenkins.md"
               }
             }
           }
@@ -163,20 +163,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "63ad739562bc4b80",
+  "active": "c36bb6e1fe7ee024",
   "lastOpenFiles": [
-    "Pasted image 20240922072021.png",
-    "Pasted image 20240922071924.png",
-    "Pasted image 20240922071339.png",
-    "Pasted image 20240922070202.png",
-    "Pasted image 20240922065449.png",
-    "LabOne/attachment/Pasted image 20240919152324.png",
-    "LabOne/attachment/Pasted image 20240919152240.png",
-    "LabOne/attachment/Pasted image 20240919152221.png",
-    "LabOne/attachment/Pasted image 20240919152159.png",
-    "LabOne/attachment/Pasted image 20240919152111.png",
-    "LabOne/attachment/2b38942c2c78f40a9e97bdf026a9af33.png",
+    "LabOne/attachment/Pasted image 20240922074423.png",
+    "LabOne/attachment/Pasted image 20240922074411.png",
+    "LabOne/attachment/Pasted image 20240922074353.png",
+    "LabOne/attachment/Pasted image 20240922074019.png",
+    "LabOne/attachment/Pasted image 20240922073928.png",
+    "LabOne/attachment/Pasted image 20240922072021.png",
+    "LabOne/attachment/Pasted image 20240922071924.png",
+    "LabOne/attachment/Pasted image 20240922071339.png",
+    "LabOne/attachment/Pasted image 20240922070202.png",
+    "LabOne/attachment/Pasted image 20240922065449.png",
     "LabOne/Lab One Jenkins.md",
+    "output/HelloWorld.java",
+    "output/attachment",
+    "output",
+    "LabOne/HelloWorld.java",
+    "Pasted image 20240922074423.png",
     "LabTwo/Lab Two Jenkins.md",
     "LabOne/attachment",
     "LabOne",
@@ -189,8 +193,6 @@
     "LabSix/kubernetes lab six.md",
     "LabSeven",
     "LabThree/kubernetes lab three.md",
-    "output/host-path-pod.yml",
-    "output/empty-dir-pod.yml",
     "LabFive/kubernetes lab five.md",
     "LabFour/kubernetes lab four.md",
     "LabTwo/kubernetes lab two.md",

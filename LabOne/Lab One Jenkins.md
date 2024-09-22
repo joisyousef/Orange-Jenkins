@@ -319,4 +319,19 @@ Done!
 ![[Pasted image 20240922071924.png]]
 the file:
 ![[Pasted image 20240922072021.png]]
-Donw
+Done
+
+ 
+### Set up a Jenkins job to clean up old builds (e.g., only keep the last 5 builds). Configure the job to discard old builds using the "Discard Old Builds" option.
+
+![[Pasted image 20240922074019.png]]
+![[Pasted image 20240922073928.png]]
+Done
+  
+### Create a Jenkins job that takes user input for a name and prints a greeting message in the console output (e.g., "Hello, [Name]!" ). Use the "This build is parameterized" option and add a string parameter.
+
+![[Pasted image 20240922074411.png]]
+![[Pasted image 20240922074423.png]]
+![[Pasted image 20240922074353.png]]
+Done!
+
