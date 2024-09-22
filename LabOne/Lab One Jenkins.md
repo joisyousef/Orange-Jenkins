@@ -335,3 +335,22 @@ Done
 ![[Pasted image 20240922074353.png]]
 Done!
 
+  
+### Set up a Jenkins job to build a Java project using the javac command. Ensure the job compiles a basic Java file and outputs the result.
+
+![[Pasted image 20240922151143.png]]
+![[Pasted image 20240922151858.png]]
+![[Pasted image 20240922151837.png]]
+
+### Create a Jenkins job that runs a script to check for disk space usage on the Jenkins server. Use a simple shell script in the build step to check the disk space (df -h on Linux).
+
+![[Pasted image 20240922160156.png]]
+
+### Create a Jenkins job that executes a Python script from the repository search for a repo or create one. Ensure the job pulls the script from GitHub and runs it.
+![[Pasted image 20240922161415.png]]
+Done!
+
+### Configure a Jenkins job that runs on an agent (slave) node with specific labels ("linux"). Set up a node with a label and configure the job to run only on that node.
+![[Pasted image 20240922162507.png]]
+![[Pasted image 20240922162507.png]]
+Done
