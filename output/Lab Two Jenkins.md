@@ -1,27 +1,27 @@
 ### Create a Jenkins Freestyle job that pulls code from a GitHub repository(from your choise) and builds it using Maven. Set up the job to trigger a build whenever there is a change in the GitHub repository.
 
-![[Pasted image 20240926173203.png]]
-![[Pasted image 20240926173217.png]]
-![[Pasted image 20240926173234.png]]
+![](attachment/4637d5af23e366c446f943ea8ac747dd.png)
+![](attachment/7b6c6848ce5b55d681348118ae51c209.png)
+![](attachment/698e56ecf81cdcaaeabcc426eae86e18.png)
 Done!
 
 ### Configure a Jenkins pipeline job that checks out code from Git, builds it, and runs unit tests. Use declarative syntax for the pipeline.
 
-![[Pasted image 20240926181005.png]]
+![](attachment/d7d75b71770439d4d26c9a89f88acf1d.png)
 Done!
 
 
 ### Set up a Jenkins job to trigger an automatic build whenever a push is made to the main branch of a GitHub repository and make sure that there is another branches. Use the Git plugin and a webhook to accomplish this.
 
 
-![[Pasted image 20240926181649.png]]
-![[Pasted image 20240926181638.png]]
+![](attachment/83ae8eb1e73e3eee7c89b0cdc0451ced.png)
+![](attachment/2c5d3e9258f0e1f2420d69bb90f5e911.png)
 add webhook
-![[Pasted image 20240926181718.png]]
+![](attachment/7fb1d97cdec00fe58cc4fc07a41e3c04.png)
 Done!
 
 ### Create a Jenkins job that builds a Docker image and pushes it to Docker Hub.Use Jenkins credentials to securely store your Docker Hub credentials.
-![[Pasted image 20240926183123.png]]
+![](attachment/c18760a47694960706ee8dbafad96736.png)
 
 ```
 pipeline {
